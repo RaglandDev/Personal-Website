@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+}
+.websitename {
+    display: flex;
+    justify-content: left;
+    color: white;
+}
